@@ -1,3 +1,3 @@
 # Community-House
 
-<img src="Community House Logo (white and large).png">
+<img src="Community House Logo (white and larger).png">
